@@ -1,11 +1,12 @@
 {
     "name": "datatables.net-fixedcolumns-se",
-    "version": "3.2.3",
+    "version": "3.2.4",
     "description": "FixedColumns for DataTables with styling for [Semantic UI](http://semantic-ui.com/)",
     "files": [
-        "css/**/*.css"
+        "css/**/*.css",
+        "js/**/*.js"
     ],
-    "main": "./js/fixedColumns.semanticui.js",
+    "main": "js/fixedColumns.semanticui.js",
     "keywords": [
         "fixed columns",
         "DataTables",
@@ -23,6 +24,7 @@
     "dependencies": {
         "jquery": ">=1.7",
         "datatables.net-se": "^1.10.15",
-        "datatables.net-fixedcolumns": "3.2.3"
-    }
+        "datatables.net-fixedcolumns": "3.2.4"
+    },
+    "style": "css/fixedColumns.semanticui.css"
 }
