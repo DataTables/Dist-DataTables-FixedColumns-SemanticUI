@@ -1,13 +1,15 @@
 {
-    "css": [
-        "css/fixedColumns.semanticui.css",
-        "css/fixedColumns.semanticui.min.css"
-    ],
     "js": [
         "js/fixedColumns.semanticui.js",
         "js/fixedColumns.semanticui.min.js"
     ],
+    "css": [
+        "css/fixedColumns.semanticui.css",
+        "css/fixedColumns.semanticui.min.css"
+    ],
+    "types": [
+        "types/fixedColumns.semanticUI.d.ts"
+    ],
     "src-repo": "http://github.com/DataTables/FixedColumns",
-    "last-sync": "39dae8bac5ec94e03d03f494c13adaec6e6f070d",
     "last-tag": "3.3.2"
 }
