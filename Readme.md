@@ -19,7 +19,7 @@ npm install datatables.net-fixedcolumns-se
 
 ```
 var $ = require( 'jquery' );
-var dt = require( 'datatables.net-fixedcolumns-se}' )( window, $ );
+var dt = require( 'datatables.net-fixedcolumns-se' )( window, $ );
 ```
 
 ### bower
