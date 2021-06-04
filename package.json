@@ -4,7 +4,7 @@
     "main": "js/fixedColumns.semanticui.js",
     "style": "css/fixedColumns.semanticui.css",
     "types": "./types/fixedColumns.semanticUI.d.ts",
-    "version": "3.3.2",
+    "version": "3.3.3",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
@@ -12,8 +12,8 @@
     "keywords": [
         "FixedColumns",
         "Semantic",
- "SemanticUI",
- "Semantic UI",
+        "SemanticUI",
+        "Semantic UI",
         "Datatables",
         "jQuery",
         "table",
@@ -21,9 +21,9 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedcolumns": ">=3.3.2",
-        "datatables.net-se": ">=1.10.24",
-        "jquery": ">=1.7"
+        "jquery": ">=1.7",
+        "datatables.net-se": "^1.10.15",
+        "datatables.net-fixedcolumns": "3.3.3"
     },
     "moduleType": [
         "globals",
