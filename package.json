@@ -4,7 +4,7 @@
     "main": "js/fixedColumns.semanticui.js",
     "style": "css/fixedColumns.semanticui.css",
     "types": "./types/fixedColumns.semanticUI.d.ts",
-    "version": "3.3.2",
+    "version": "3.3.3",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
@@ -12,8 +12,8 @@
     "keywords": [
         "FixedColumns",
         "Semantic",
- "SemanticUI",
- "Semantic UI",
+        "SemanticUI",
+        "Semantic UI",
         "Datatables",
         "jQuery",
         "table",
