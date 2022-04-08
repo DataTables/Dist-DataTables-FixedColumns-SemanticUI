@@ -1,3 +1,9 @@
+table.dataTable tr > .dtfc-fixed-left,
+table.dataTable tr > .dtfc-fixed-right {
+  z-index: 1;
+  background-color: white;
+}
+
 table.dataTable {
   border-left-width: 0px !important;
 }
@@ -7,16 +13,6 @@ table.dataTable tr {
 table.dataTable tr th:first-child,
 table.dataTable tr td:first-child {
   border-left: 1px solid rgba(34, 36, 38, 0.15) !important;
-}
-table.dataTable tr th {
-  background-color: #f9fafb;
-}
-table.dataTable tr td {
-  background-color: white;
-}
-table.dataTable tr th.dtfc-fixed-left,
-table.dataTable tr th.dtfc-fixed-right {
-  z-index: 1;
 }
 
 div.dtfc-right-top-blocker {
