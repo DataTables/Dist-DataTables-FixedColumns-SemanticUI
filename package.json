@@ -2,12 +2,14 @@
     "name": "datatables.net-fixedcolumns-se",
     "description": "FixedColumns for DataTables with styling for [SemanticUI](https://semantic-ui.com/)",
     "main": "js/fixedColumns.semanticui.js",
+    "module": "js/fixedColumns.semanticui.mjs",
     "style": "css/fixedColumns.semanticui.css",
     "types": "./types/types.d.ts",
     "version": "4.1.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
