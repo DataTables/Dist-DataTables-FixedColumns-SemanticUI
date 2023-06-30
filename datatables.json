@@ -10,11 +10,9 @@
         "css/fixedColumns.semanticui.min.css"
     ],
     "types": [
-        "types/fixedColumns.semanticui.d.ts",
-        "types/fixedColumns.semanticUI.d.ts",
-        "types/types.d.ts"
+        "types/fixedColumns.semanticui.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/FixedColumns",
     "last-tag": "4.2.2",
-    "last-sync": "b8e4c91071d6f022f591bef6220fae532d45f9c7"
+    "last-sync": ""
 }
