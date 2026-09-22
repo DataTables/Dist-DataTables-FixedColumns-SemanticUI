@@ -5,7 +5,7 @@
     "module": "./js/fixedColumns.semanticui.mjs",
     "style": "./css/fixedColumns.semanticui.css",
     "types": "./types/fixedColumns.semanticui.d.ts",
-    "version": "6.0.0",
+    "version": "6.1.0",
     "files": [
         "js",
         "css",
@@ -22,8 +22,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedcolumns": "6.0.0",
-        "datatables.net-se": "^3"
+        "datatables.net-fixedcolumns": "6.1.0",
+        "datatables.net-se": "^3.1"
     },
     "author": {
         "name": "SpryMedia Ltd",
