@@ -39,9 +39,10 @@
     "exports": {
         ".": {
             "types": "./types/fixedColumns.semanticui.d.ts",
+            "style": "./css/fixedColumns.semanticui.css",
             "import": "./js/fixedColumns.semanticui.mjs",
-            "default": "./js/fixedColumns.semanticui.mjs",
-            "require": "./js/fixedColumns.semanticui.js"
+            "require": "./js/fixedColumns.semanticui.js",
+            "default": "./js/fixedColumns.semanticui.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
