@@ -1,4 +1,4 @@
-/*! FixedColumns Fomantic styling 6.1.1 for DataTables
+/*! FixedColumns Fomantic styling 6.1.2 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 import DataTable from"datatables.net-se";import FixedColumns from"datatables.net-fixedcolumns";export default DataTable;
